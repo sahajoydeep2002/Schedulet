@@ -1,6 +1,9 @@
-# Schedulet
+<h1 align = "center" font = "">Schedulet</h1>
+<p align = "center">
+<img class = "center" width = 70% src="data/custom/image1.jpg">
+</p>
 
-Improving the course organization process.
+<h3 align = "center" font = "">Improving the course organization process.</h3>
 
 This is a webapp that allow user to upload their course outline and get a downloadable excel sheet after it is uploaded.
 
@@ -34,7 +37,7 @@ https://youtu.be/2fYlXxG837I
 
 # Try my product :
 
-shorturl.at/kIQYZ
+https://shorturl.at/kIQYZ
 
 # How we built it
 ## Figma
