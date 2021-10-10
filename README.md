@@ -1,6 +1,6 @@
 <h1 align = "center" font = "">Schedulet</h1>
 <p align = "center">
-<img class = "center" width = 70% src="data/custom/image1.jpg">
+<img class = "center" width = 70% src="gallery.jpeg">
 </p>
 
 <h3 align = "center" font = "">Improving the course organization process.</h3>
