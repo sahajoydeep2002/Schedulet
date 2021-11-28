@@ -50,10 +50,10 @@ I built my back-end with Flask and front-end with HTML/CSS. I started by breakin
 A major challenge I faced was a time constraint. I had many ideas of all the different aspects I wanted to add to the program but not enough time to execute them.
 
 ## Accomplishments that I’m proud of
-The major accomplishment I am proud of solving the real-time issue with the use of know tech stacks. I am also proud of how the design of my presentation and demo came out and getting an oppurnutiy to present my project to The World After Covid-19 LIVE By KPMG.
+The major accomplishment I am proud of solving the real-time issue with the use of know tech stacks. I am also proud of how the design of my presentation and demo came out and getting an opportunity to present my project to The World After Covid-19 LIVE By KPMG.
 
 ## What I learned
-For a couple of us, this was my first Hackathon and while it was a learning curve in the beginning I quickly got into the way of how it works. Some of us learned a new programming language and API. My designer also learned how to prototype the full beginning-to-end process on Figma for the first time in a hackathon.
+For me, this was my first Hackathon and while it was a learning curve in the beginning I quickly got into the way of how it works. Some of us learned a new programming language and API. My designer also learned how to prototype the full beginning-to-end process on Figma for the first time in a hackathon.
 
 ## Built With
 #### css
